@@ -1,7 +1,7 @@
 <?php
 /**
  * @file
- * Working demo of simulating parallel threads in PHP.
+ * Working demo of simulating parallel process in PHP.
  */
 
 // ****                       **** //
